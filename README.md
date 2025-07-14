@@ -37,13 +37,12 @@ Para testar a calculadora em seu ambiente local, siga os passos abaixo:
 
 2.  **Clone o Repositório:**
     ```bash
-    git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+     git clone [https://github.com/ViniciusVivet/calculadora-flet-python.git](https://github.com/ViniciusVivet/calculadora-flet-python.git)
     ```
-    (Substitua `SEU_USUARIO` e `NOME_DO_REPOSITORIO` pelos seus dados reais).
-
+   
 3.  **Navegue até a Pasta do Projeto:**
     ```bash
-    cd NOME_DO_REPOSITORIO
+    cd calculadora-flet-python
     ```
 
 4.  **Execute a Aplicação:**
@@ -67,3 +66,6 @@ Para testar a calculadora em seu ambiente local, siga os passos abaixo:
 ## 🧑‍💻 Autor
 
 **Douglas Vinicius Alves da Silva**
+* [**Meu Perfil no GitHub**](https://github.com/ViniciusVivet)
+* [**Meu Perfil no LinkedIn**](https://www.linkedin.com/in/vivetsp/)
+* **Email:** [douglasvivet@gmail.com](mailto:douglasvivet@gmail.com)
